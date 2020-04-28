@@ -1,4 +1,4 @@
-# Delete-protection-Blender (ctrl+suppr)
+# protected_delete_Addon-Blender (ctrl+suppr)
 
 -add a protection to prevent from deleting objects  
 -panel properties > object pp tab > visibility   
