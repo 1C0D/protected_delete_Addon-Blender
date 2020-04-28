@@ -2,7 +2,7 @@ import bpy
 from bpy.props import BoolProperty
 
 bl_info = {
-    "name": "Object_protect_delete",
+    "name": "protected_delete_addon",
     "author": "1C0D",
     "version": (0, 0, 1),
     "blender": (2, 80, 0),
